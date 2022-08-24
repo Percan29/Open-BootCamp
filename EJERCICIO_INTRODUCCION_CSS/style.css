@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Distressed&display=swap');
+
+html {
+    font-family: Rubik Distressed;
+    font-size: large;
+}
+
+#elemento-1 {
+    color: red;
+}
+
+ul li#elemento-1 {
+    font-size: 2rem;
+}
